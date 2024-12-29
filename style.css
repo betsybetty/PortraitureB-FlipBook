@@ -200,7 +200,7 @@ input {
     transform: rotateY(-180deg);
     z-index: 13;
 }
-checkbox-p13:checked ~ .book #p13{
+#checkbox-p13:checked ~ .book #p13{
     transform: rotateY(-180deg);
     z-index: 14;
 }
